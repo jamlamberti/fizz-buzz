@@ -9,7 +9,7 @@ Fizz Buzz is provided in the following Langugages:
 - [Fortran](https://github.com/learnbasics/fizz-buzz/blob/master/Fortran.f90)
 - [Go](https://github.com/learnbasics/fizz-buzz/blob/master/Go.go)
 - [Java](https://github.com/learnbasics/fizz-buzz/blob/master/Java.java)
-- [Javascript](https://github.com/learnbasics/fizz-buzz/blob/master/Javascript.js)
+- [Javascript](https://github.com/learnbasics/fizz-buzz/blob/master/JavaScript.js)
 - [Perl](https://github.com/learnbasics/fizz-buzz/blob/master/Perl.pl)
 - [Python](https://github.com/learnbasics/fizz-buzz/blob/master/Python.py)
 - [R](https://github.com/learnbasics/fizz-buzz/blob/master/R.R)
