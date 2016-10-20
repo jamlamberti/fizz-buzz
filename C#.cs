@@ -27,7 +27,7 @@ namespace FizzBuzz
 			} else if (num % 5 == 0) {
 				return "Buzz";
 			} else {
-				return string.Empty;
+				return num.ToString();
 			}
 		}
 	}
