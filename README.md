@@ -1,7 +1,7 @@
 # fizz-buzz
-Fizz Buzz in many different programming languages
+Fizz Buzz in many different programming languages.
 
-Fizz Buzz is provided in the following Langugages:
+Fizz Buzz is provided in the following Languages:
 - [C#](https://github.com/learnbasics/fizz-buzz/blob/master/C%23.cs)
 - [C++](https://github.com/learnbasics/fizz-buzz/blob/master/C%2B%2B.cpp)
 - [C](https://github.com/learnbasics/fizz-buzz/blob/master/C.c)
