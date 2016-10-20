@@ -1,7 +1,6 @@
-# fizz-buzz
-Fizz Buzz in many different programming languages.
-
+# Fizz Buzz
 Fizz Buzz is provided in the following Languages:
+- [ALGOL 68](https://github.com/learnbasics/fizz-buzz/blob/master/ALGOL.alg)
 - [C#](https://github.com/learnbasics/fizz-buzz/blob/master/C%23.cs)
 - [C++](https://github.com/learnbasics/fizz-buzz/blob/master/C%2B%2B.cpp)
 - [C](https://github.com/learnbasics/fizz-buzz/blob/master/C.c)
