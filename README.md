@@ -2,6 +2,7 @@
 Fizz Buzz is provided in the following Languages:
 - [Ada](https://github.com/learnbasic/fizz-buzz/blob/master/Ada.adb)
 - [ALGOL 68](https://github.com/learnbasics/fizz-buzz/blob/master/ALGOL.alg)
+- [Basic](https://github.com/learnbasics/fizz-buzz/blob/master/Basic.bas)
 - [Batch](https://github.com/learnbasics/fizz-buzz/blob/master/Batch.bat)
 - [C#](https://github.com/learnbasics/fizz-buzz/blob/master/C%23.cs)
 - [C++](https://github.com/learnbasics/fizz-buzz/blob/master/C%2B%2B.cpp)
